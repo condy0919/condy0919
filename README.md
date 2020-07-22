@@ -1,7 +1,6 @@
 ### Hi there
 
 <p align="center">
-  <a href="https://github.com/condy0919"><img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/condy0919/condy0919"></a>
   <a href="https://github.com/condy0919"><img src="https://img.shields.io/github/followers/condy0919.svg?lable=GitHub&style=social" alt="GitHub"></a>
 </p>
 
