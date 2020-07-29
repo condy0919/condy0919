@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/condy0919"><img src="https://img.shields.io/github/followers/condy0919.svg?lable=GitHub&style=social" alt="GitHub"></a>
+  <a href="https://twitter.com/condychen"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FCondyChen"></a>
 </p>
 
 <!--
