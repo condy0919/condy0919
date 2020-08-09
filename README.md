@@ -1,9 +1,8 @@
 ### Hi there
 
-<p align="center">
-  <a href="https://github.com/condy0919"><img src="https://img.shields.io/github/followers/condy0919.svg?lable=GitHub&style=social" alt="GitHub"></a>
-  <a href="https://twitter.com/condychen"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FCondyChen"></a>
-</p>
+![My GitHub](https://github-readme-stats.vercel.app/api?username=condy0919&count_private=true&show_icons=true&theme=buefy&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=condy0919&theme=buefy&hide=ruby&count_private=true&show_icons=true&layout=compact)
 
 <!--
 **condy0919/condy0919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
